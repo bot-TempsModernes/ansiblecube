@@ -6945,6 +6945,162 @@
     },
     "samba": "False"
   },
+  "kb-bsf-preprod": {
+    "package_management": [
+      {
+        "name": "a",
+        "status": "present"
+      },
+      {
+        "name": "d",
+        "status": "present"
+      },
+      {
+        "name": "m",
+        "status": "present"
+      },
+      {
+        "name": "i",
+        "status": "present"
+      },
+      {
+        "name": "n",
+        "status": "present"
+      },
+      {
+        "name": "i",
+        "status": "present"
+      },
+      {
+        "name": "s",
+        "status": "present"
+      },
+      {
+        "name": "t",
+        "status": "present"
+      },
+      {
+        "name": "r",
+        "status": "present"
+      },
+      {
+        "name": "a",
+        "status": "present"
+      },
+      {
+        "name": "t",
+        "status": "present"
+      },
+      {
+        "name": "i",
+        "status": "present"
+      },
+      {
+        "name": "o",
+        "status": "present"
+      },
+      {
+        "name": "n",
+        "status": "present"
+      },
+      {
+        "name": "-",
+        "status": "present"
+      },
+      {
+        "name": "g",
+        "status": "present"
+      },
+      {
+        "name": "e",
+        "status": "present"
+      },
+      {
+        "name": "s",
+        "status": "present"
+      },
+      {
+        "name": "t",
+        "status": "present"
+      },
+      {
+        "name": "i",
+        "status": "present"
+      },
+      {
+        "name": "o",
+        "status": "present"
+      },
+      {
+        "name": "n",
+        "status": "present"
+      },
+      {
+        "name": "-",
+        "status": "present"
+      },
+      {
+        "name": "c",
+        "status": "present"
+      },
+      {
+        "name": "o",
+        "status": "present"
+      },
+      {
+        "name": "m",
+        "status": "present"
+      },
+      {
+        "name": "p",
+        "status": "present"
+      },
+      {
+        "name": "t",
+        "status": "present"
+      },
+      {
+        "name": "a",
+        "status": "present"
+      },
+      {
+        "name": "b",
+        "status": "present"
+      },
+      {
+        "name": "i",
+        "status": "present"
+      },
+      {
+        "name": "l",
+        "status": "present"
+      },
+      {
+        "name": "i",
+        "status": "present"
+      },
+      {
+        "name": "t",
+        "status": "present"
+      },
+      {
+        "name": "e",
+        "status": "present"
+      },
+      {
+        "name": "-",
+        "status": "present"
+      },
+      {
+        "name": "f",
+        "status": "present"
+      },
+      {
+        "name": "r",
+        "status": "present"
+      }
+    ]
+  },
   "kb-bsf-scaleway": {
     "kalite": {
       "activated": "True",
