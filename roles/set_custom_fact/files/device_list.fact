@@ -11644,10 +11644,6 @@
       {
         "name": "blabla-de",
         "status": "present"
-      },
-      {
-        "name": "testpacakge-ar",
-        "status": "present"
       }
     ]
   },
