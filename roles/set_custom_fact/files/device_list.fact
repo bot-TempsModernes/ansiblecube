@@ -2467,6 +2467,98 @@
       }
     ]
   },
+  "idb-fra-mediathequeroubaix": {
+    "package_management": [
+      {
+        "name": "musique-fr",
+        "status": "present"
+      },
+      {
+        "name": "combattons-les-discriminations-fr",
+        "status": "present"
+      },
+      {
+        "name": "montez-votre-projet-professionnel-fr",
+        "status": "present"
+      },
+      {
+        "name": "apprenez-le-code-informatique-fr",
+        "status": "present"
+      },
+      {
+        "name": "decouvrez-les-arts-plastiques-fr",
+        "status": "present"
+      },
+      {
+        "name": "initiez-vous-a-la-photographie-fr",
+        "status": "present"
+      },
+      {
+        "name": "initiez-vous-a-la-creation-video-fr",
+        "status": "present"
+      },
+      {
+        "name": "bien-etre-et-communication-au-travail-fr",
+        "status": "present"
+      },
+      {
+        "name": "creation-d-entreprise-fr",
+        "status": "present"
+      },
+      {
+        "name": "combattons-les-discriminations-fr",
+        "status": "present"
+      },
+      {
+        "name": "economie-et-developpement-durable-fr",
+        "status": "present"
+      },
+      {
+        "name": "kit-de-l-animateur-fr",
+        "status": "present"
+      },
+      {
+        "name": "utilisez-internet-en-toute-securite-fr",
+        "status": "present"
+      },
+      {
+        "name": "parentalite-fr",
+        "status": "present"
+      },
+      {
+        "name": "les-filles-et-les-garcons-quelles-differences-fr",
+        "status": "present"
+      },
+      {
+        "name": "creation-d-association-fr",
+        "status": "present"
+      },
+      {
+        "name": "risques-numeriques-fr",
+        "status": "present"
+      },
+      {
+        "name": "decouvrez-le-street-art-fr",
+        "status": "present"
+      },
+      {
+        "name": "musique-libre-de-droit-en",
+        "status": "present"
+      },
+      {
+        "name": "kit-de-l-animateur-libre-de-droit-fr",
+        "status": "present"
+      },
+      {
+        "name": "fiches-creativite-libre-de-droit-fr",
+        "status": "present"
+      },
+      {
+        "name": "films-et-videos-libres-de-droit-fr",
+        "status": "present"
+      }
+    ]
+  },
   "idb-fra-mmm": {
     "kalite": {
       "activated": "True",
@@ -2814,6 +2906,18 @@
       },
       {
         "name": "wikipedia.fr",
+        "status": "present"
+      }
+    ]
+  },
+  "idb-fra-tempsmodernes": {
+    "package_management": [
+      {
+        "name": "administration-gestion-comptabilite-fr",
+        "status": "present"
+      },
+      {
+        "name": "hygiene-de-base-fr",
         "status": "present"
       }
     ]
@@ -6948,155 +7052,11 @@
   "kb-bsf-preprod": {
     "package_management": [
       {
-        "name": "a",
+        "name": "administration-gestion-comptabilite-fr",
         "status": "present"
       },
       {
-        "name": "d",
-        "status": "present"
-      },
-      {
-        "name": "m",
-        "status": "present"
-      },
-      {
-        "name": "i",
-        "status": "present"
-      },
-      {
-        "name": "n",
-        "status": "present"
-      },
-      {
-        "name": "i",
-        "status": "present"
-      },
-      {
-        "name": "s",
-        "status": "present"
-      },
-      {
-        "name": "t",
-        "status": "present"
-      },
-      {
-        "name": "r",
-        "status": "present"
-      },
-      {
-        "name": "a",
-        "status": "present"
-      },
-      {
-        "name": "t",
-        "status": "present"
-      },
-      {
-        "name": "i",
-        "status": "present"
-      },
-      {
-        "name": "o",
-        "status": "present"
-      },
-      {
-        "name": "n",
-        "status": "present"
-      },
-      {
-        "name": "-",
-        "status": "present"
-      },
-      {
-        "name": "g",
-        "status": "present"
-      },
-      {
-        "name": "e",
-        "status": "present"
-      },
-      {
-        "name": "s",
-        "status": "present"
-      },
-      {
-        "name": "t",
-        "status": "present"
-      },
-      {
-        "name": "i",
-        "status": "present"
-      },
-      {
-        "name": "o",
-        "status": "present"
-      },
-      {
-        "name": "n",
-        "status": "present"
-      },
-      {
-        "name": "-",
-        "status": "present"
-      },
-      {
-        "name": "c",
-        "status": "present"
-      },
-      {
-        "name": "o",
-        "status": "present"
-      },
-      {
-        "name": "m",
-        "status": "present"
-      },
-      {
-        "name": "p",
-        "status": "present"
-      },
-      {
-        "name": "t",
-        "status": "present"
-      },
-      {
-        "name": "a",
-        "status": "present"
-      },
-      {
-        "name": "b",
-        "status": "present"
-      },
-      {
-        "name": "i",
-        "status": "present"
-      },
-      {
-        "name": "l",
-        "status": "present"
-      },
-      {
-        "name": "i",
-        "status": "present"
-      },
-      {
-        "name": "t",
-        "status": "present"
-      },
-      {
-        "name": "e",
-        "status": "present"
-      },
-      {
-        "name": "-",
-        "status": "present"
-      },
-      {
-        "name": "f",
-        "status": "present"
-      },
-      {
-        "name": "r",
+        "name": "hygiene-de-base-fr",
         "status": "present"
       }
     ]
