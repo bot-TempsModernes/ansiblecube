@@ -2919,6 +2919,10 @@
       {
         "name": "hygiene-de-base-fr",
         "status": "present"
+      },
+      {
+        "name": "wikiquote.el",
+        "status": "present"
       }
     ]
   },
