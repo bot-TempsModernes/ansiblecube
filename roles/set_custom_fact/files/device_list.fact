@@ -2958,6 +2958,22 @@
       }
     ]
   },
+  "idb-fra-tmbeta2": {
+    "package_management": [
+      {
+        "name": "administration-gestion-comptabilite-fr",
+        "status": "present"
+      },
+      {
+        "name": "hygiene-de-base-fr",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.el",
+        "status": "present"
+      }
+    ]
+  },
   "idb-fra-vdp2": {
     "idc_import": {
       "activated": "False",
