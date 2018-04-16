@@ -1238,6 +1238,22 @@
       }
     ]
   },
+  "idb-fra-TM": {
+    "package_management": [
+      {
+        "name": "administration-gestion-comptabilite-fr",
+        "status": "present"
+      },
+      {
+        "name": "hygiene-de-base-fr",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.el",
+        "status": "present"
+      }
+    ]
+  },
   "idb-fra-acelem": {
     "idc_import": {
       "activated": "False",
