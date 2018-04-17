@@ -3034,6 +3034,26 @@
       }
     ]
   },
+  "idb-fra-tmbeta9": {
+    "package_management": [
+      {
+        "name": "administration-gestion-comptabilite-fr",
+        "status": "present"
+      },
+      {
+        "name": "hygiene-de-base-fr",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.el",
+        "status": "present"
+      },
+      {
+        "name": "choisirsacontraception.fr",
+        "status": "present"
+      }
+    ]
+  },
   "idb-fra-vdp2": {
     "idc_import": {
       "activated": "False",
