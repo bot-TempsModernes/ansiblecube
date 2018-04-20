@@ -7090,6 +7090,26 @@
       }
     ]
   },
+  "kb-bsf-banzai43": {
+    "package_management": [
+      {
+        "name": "administration-gestion-comptabilite-fr",
+        "status": "present"
+      },
+      {
+        "name": "hygiene-de-base-fr",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.el",
+        "status": "present"
+      },
+      {
+        "name": "choisirsacontraception.fr",
+        "status": "present"
+      }
+    ]
+  },
   "kb-bsf-btc": {
     "kalite": {
       "activated": "True",
