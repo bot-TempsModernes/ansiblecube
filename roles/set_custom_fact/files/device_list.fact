@@ -8240,34 +8240,7 @@
     }
   },
   "kb-col-cucuta": {
-    "kalite": {
-      "activated": "True",
-      "language": [
-        "es"
-      ],
-      "version": "0.16.9"
-    },
     "package_management": [
-      {
-        "name": "wikipedia.es",
-        "status": "present"
-      },
-      {
-        "name": "wiktionary.es",
-        "status": "present"
-      },
-      {
-        "name": "wikibooks.es",
-        "status": "present"
-      },
-      {
-        "name": "wikiquote.es",
-        "status": "present"
-      },
-      {
-        "name": "gutenberg.es",
-        "status": "present"
-      },
       {
         "name": "creation-sikana-es",
         "status": "present"
@@ -8311,11 +8284,28 @@
       {
         "name": "educacion-cucuta-video-es",
         "status": "present"
+      },
+      {
+        "name": "gutenberg.es",
+        "status": "present"
+      },
+      {
+        "name": "wikipedia.es",
+        "status": "present"
+      },
+      {
+        "name": "wikibooks.es",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.es",
+        "status": "present"
+      },
+      {
+        "name": "wiktionary.es",
+        "status": "present"
       }
-    ],
-    "portal": {
-      "activated": "True"
-    }
+    ]
   },
   "kb-ecu-avanti": {
     "kalite": {
