@@ -1018,6 +1018,10 @@
       {
         "name": "choisirsacontraception.fr",
         "status": "present"
+      },
+      {
+        "name": "wikiquote.es",
+        "status": "present"
       }
     ]
   },
