@@ -1006,26 +1006,20 @@
     }
   },
   "idb-bsf-vagrant": {
-    "kalite": {
-      "activated": "True",
-      "language": [
-        "fr"
-      ],
-      "version": "0.16.9"
-    },
     "package_management": [
       {
-        "name": "wikiquote.fa",
-        "status": "latest"
+        "name": "administration-gestion-comptabilite-fr",
+        "status": "present"
+      },
+      {
+        "name": "hygiene-de-base-fr",
+        "status": "present"
+      },
+      {
+        "name": "choisirsacontraception.fr",
+        "status": "present"
       }
-    ],
-    "portal": {
-      "activated": "False"
-    },
-    "syncthing": {
-      "activated": "True",
-      "syncthing_master_id_device": ""
-    }
+    ]
   },
   "idb-col-colsubsidio": {
     "ideascube_branding": "colsubsidio",
