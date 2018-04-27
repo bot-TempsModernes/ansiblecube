@@ -7419,6 +7419,22 @@
       "port": "658"
     }
   },
+  "kb-bsf-vagrant": {
+    "package_management": [
+      {
+        "name": "administration-gestion-comptabilite-fr",
+        "status": "present"
+      },
+      {
+        "name": "hygiene-de-base-fr",
+        "status": "present"
+      },
+      {
+        "name": "choisirsacontraception.fr",
+        "status": "present"
+      }
+    ]
+  },
   "kb-bsfcampus-civ": {
     "bsfcampus": {
       "activated": "True",
