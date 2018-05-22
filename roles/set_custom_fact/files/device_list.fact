@@ -1006,24 +1006,14 @@
     }
   },
   "idb-bsf-vagrant": {
-    "package_management": [
-      {
-        "name": "administration-gestion-comptabilite-fr",
-        "status": "present"
-      },
-      {
-        "name": "hygiene-de-base-fr",
-        "status": "present"
-      },
-      {
-        "name": "choisirsacontraception.fr",
-        "status": "present"
-      },
-      {
-        "name": "wikiquote.es",
-        "status": "present"
-      }
-    ]
+    "kalite": {
+      "activated": "False",
+      "language": [],
+      "version": "0.16.9"
+    },
+    "portal": {
+      "activated": "True"
+    }
   },
   "idb-col-colsubsidio": {
     "ideascube_branding": "colsubsidio",
