@@ -1011,7 +1011,20 @@
       "language": [],
       "version": "0.16.9"
     },
-    "package_management": [],
+    "package_management": [
+      {
+        "name": "administration-gestion-comptabilite-fr",
+        "status": "present"
+      },
+      {
+        "name": "hygiene-de-base-fr",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.es",
+        "status": "present"
+      }
+    ],
     "portal": {
       "activated": "True"
     }
