@@ -1011,16 +1011,7 @@
       "language": [],
       "version": "0.16.9"
     },
-    "package_management": [
-      {
-        "name": "administration-gestion-comptabilite-fr",
-        "status": "present"
-      },
-      {
-        "name": "hygiene-de-base-fr",
-        "status": "present"
-      }
-    ],
+    "package_management": [],
     "portal": {
       "activated": "True"
     }
