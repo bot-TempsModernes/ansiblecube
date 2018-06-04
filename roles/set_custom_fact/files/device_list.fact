@@ -1025,6 +1025,10 @@
       {
         "name": "wikiquote.es",
         "status": "present"
+      },
+      {
+        "name": "choisirsacontraception.fr",
+        "status": "present"
       }
     ],
     "portal": {
