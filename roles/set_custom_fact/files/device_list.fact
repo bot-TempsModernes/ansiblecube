@@ -1005,6 +1005,36 @@
       "activated": "False"
     }
   },
+  "idb-bsf-tempsmodernes": {
+    "kalite": {
+      "activated": true,
+      "language": [
+        "fr"
+      ],
+      "version": "0.16.9"
+    },
+    "package_management": [
+      {
+        "name": "hygiene-de-base-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg1-fr",
+        "status": "present"
+      },
+      {
+        "name": "choisirsacontraception.fr",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.fa",
+        "status": "present"
+      }
+    ],
+    "portal": {
+      "activated": "True"
+    }
+  },
   "idb-bsf-vagrant": {
     "kalite": {
       "activated": true,
