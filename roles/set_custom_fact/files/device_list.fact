@@ -1023,6 +1023,10 @@
         "status": "present"
       },
       {
+        "name": "test-pkg2-it",
+        "status": "present"
+      },
+      {
         "name": "choisirsacontraception.fr",
         "status": "present"
       },
