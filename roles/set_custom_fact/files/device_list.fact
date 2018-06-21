@@ -1015,10 +1015,6 @@
     },
     "package_management": [
       {
-        "name": "hygiene-de-base-fr",
-        "status": "present"
-      },
-      {
         "name": "test-pkg1-fr",
         "status": "present"
       },
