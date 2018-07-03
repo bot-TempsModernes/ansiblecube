@@ -9,6 +9,10 @@
       {
         "name": "test-pkg2-fr",
         "status": "present"
+      },
+      {
+        "name": "wikiquote.fr",
+        "status": "present"
       }
     ],
     "portal": {
