@@ -16,6 +16,14 @@
       {
         "name": "test-pkg2-fr",
         "status": "present"
+      },
+      {
+        "name": "test-pkg1-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg2-fr",
+        "status": "present"
       }
     ]
   }
