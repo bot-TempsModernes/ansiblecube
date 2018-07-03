@@ -1,4 +1,34 @@
 {
+  "idb-bsf-tempsmodernes": {
+    "kalite": {
+      "activated": true,
+      "language": [
+        "fr"
+      ],
+      "version": "0.16.9"
+    },
+    "package_management": [
+      {
+        "name": "test-pkg1-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg2-it",
+        "status": "present"
+      },
+      {
+        "name": "choisirsacontraception.fr",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.fa",
+        "status": "present"
+      }
+    ],
+    "portal": {
+      "activated": true
+    }
+  },
   "test": {
     "kalite": {
       "activated": false,
