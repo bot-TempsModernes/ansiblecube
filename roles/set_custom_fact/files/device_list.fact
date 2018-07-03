@@ -3,7 +3,6 @@
     "kalite": {
       "activated": true,
       "language": [
-        "fr",
         "fr"
       ],
       "version": "0.16.9"
