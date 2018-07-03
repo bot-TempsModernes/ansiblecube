@@ -1,40 +1,20 @@
 {
+  "kalite": {
+    "activated": true,
+    "language": [
+      "fr"
+    ],
+    "version": "0.16.9"
+  },
+  "portal": {
+    "activated": true
+  },
   "test": {
-    "kalite": {
-      "activated": true,
-      "language": [
-        "fr"
-      ],
-      "version": "0.16.9"
-    },
     "package_management": [
       {
         "name": "test-pkg1-fr",
         "status": "present"
-      },
-      {
-        "name": "choisirsacontraception.fr",
-        "status": "present"
-      },
-      {
-        "name": "wikiquote.fa",
-        "status": "present"
-      },
-      {
-        "name": "test-pkg1-fr",
-        "status": "present"
-      },
-      {
-        "name": "choisirsacontraception.fr",
-        "status": "present"
-      },
-      {
-        "name": "wikiquote.fa",
-        "status": "present"
       }
-    ],
-    "portal": {
-      "activated": true
-    }
+    ]
   }
 }
