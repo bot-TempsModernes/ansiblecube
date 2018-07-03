@@ -1,24 +1,4 @@
 {
-  "idb-bsf-tempsmodernes": {
-    "package_management": [
-      {
-        "name": "test-pkg1-fr",
-        "status": "present"
-      },
-      {
-        "name": "test-pkg2-fr",
-        "status": "present"
-      },
-      {
-        "name": "test-pkg1-fr",
-        "status": "present"
-      },
-      {
-        "name": "test-pkg2-fr",
-        "status": "present"
-      }
-    ]
-  },
   "kalite": {
     "activated": false,
     "language": [],
@@ -31,6 +11,26 @@
     "package_management": [
       {
         "name": "test-pkg1-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg2-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg1-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg2-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg1-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg2-fr",
         "status": "present"
       }
     ]
