@@ -19,18 +19,6 @@
       {
         "name": "wikiquote.fa",
         "status": "present"
-      },
-      {
-        "name": "test-pkg1-fr",
-        "status": "present"
-      },
-      {
-        "name": "choisirsacontraception.fr",
-        "status": "present"
-      },
-      {
-        "name": "wikiquote.fa",
-        "status": "present"
       }
     ],
     "portal": {
