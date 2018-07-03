@@ -3,6 +3,7 @@
     "kalite": {
       "activated": true,
       "language": [
+        "fr",
         "fr"
       ],
       "version": "0.16.9"
@@ -14,6 +15,18 @@
       },
       {
         "name": "test-pkg2-it",
+        "status": "present"
+      },
+      {
+        "name": "choisirsacontraception.fr",
+        "status": "present"
+      },
+      {
+        "name": "wikiquote.fa",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg1-fr",
         "status": "present"
       },
       {
