@@ -1,9 +1,19 @@
 {
+  "idb-bsf-tempsmodernes": {
+    "package_management": [
+      {
+        "name": "test-pkg1-fr",
+        "status": "present"
+      },
+      {
+        "name": "test-pkg2-fr",
+        "status": "present"
+      }
+    ]
+  },
   "kalite": {
-    "activated": true,
-    "language": [
-      "fr"
-    ],
+    "activated": false,
+    "language": [],
     "version": "0.16.9"
   },
   "portal": {
