@@ -1,8 +1,10 @@
 {
   "test": {
     "kalite": {
-      "activated": false,
-      "language": [],
+      "activated": true,
+      "language": [
+        "fr"
+      ],
       "version": "0.16.9"
     },
     "package_management": [
