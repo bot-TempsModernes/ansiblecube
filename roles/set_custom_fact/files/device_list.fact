@@ -1,22 +1,11 @@
 {
   "test": {
     "kalite": {
-      "activated": true,
-      "language": [
-        "fr"
-      ],
+      "activated": false,
+      "language": [],
       "version": "0.16.9"
     },
-    "package_management": [
-      {
-        "name": "test-pkg2-fr",
-        "status": "present"
-      },
-      {
-        "name": "wikiquote.fr",
-        "status": "present"
-      }
-    ],
+    "package_management": [],
     "portal": {
       "activated": true
     }
