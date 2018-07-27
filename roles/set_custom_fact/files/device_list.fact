@@ -37,7 +37,12 @@
       "language": [],
       "version": "0.16.9"
     },
-    "package_management": [],
+    "package_management": [
+      {
+        "name": "pkg1-it",
+        "status": "present"
+      }
+    ],
     "portal": {
       "activated": true
     }
