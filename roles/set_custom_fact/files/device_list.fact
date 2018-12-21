@@ -63,6 +63,34 @@
       "activated": true
     }
   },
+  "kb-bsf-boom": {
+    "kolibri": {
+      "activated": false,
+      "language": [],
+      "version": "0.10.3"
+    },
+    "package_management": [
+      {
+        "name": "test-pkg-1-ar",
+        "status": "present"
+      },
+      {
+        "name": "test-video-pkg-de",
+        "status": "present"
+      },
+      {
+        "name": "test-audio-pkg-fr",
+        "status": "present"
+      },
+      {
+        "name": "multicontent-pkg-fr",
+        "status": "present"
+      }
+    ],
+    "portal": {
+      "activated": true
+    }
+  },
   "kb-est-tes": {
     "kolibri": {
       "activated": false,
