@@ -101,10 +101,6 @@
       {
         "name": "test-pkg-1-ar",
         "status": "present"
-      },
-      {
-        "name": "azertyaqsdf-de",
-        "status": "present"
       }
     ],
     "portal": {
