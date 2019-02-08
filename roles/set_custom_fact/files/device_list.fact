@@ -109,10 +109,8 @@
   },
   "kb-est-tes": {
     "kolibri": {
-      "activated": true,
-      "language": [
-        "fr"
-      ],
+      "activated": false,
+      "language": [],
       "version": "0.10.3"
     },
     "package_management": [
