@@ -155,6 +155,22 @@
       "activated": true
     }
   },
+  "kb-you-dazdazdazdazdazd": {
+    "kolibri": {
+      "activated": false,
+      "language": [],
+      "version": "0.10.3"
+    },
+    "package_management": [
+      {
+        "name": "test-pkg-1-ar",
+        "status": "present"
+      }
+    ],
+    "portal": {
+      "activated": true
+    }
+  },
   "test": {
     "kalite": {
       "activated": false,
