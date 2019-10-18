@@ -97,6 +97,10 @@
       {
         "name": "wiktionary.sw",
         "status": "present"
+      },
+      {
+        "name": "w2eu",
+        "status": "present"
       }
     ],
     "portal": {
