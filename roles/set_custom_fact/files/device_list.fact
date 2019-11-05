@@ -115,31 +115,11 @@
     },
     "package_management": [
       {
-        "name": "patron-pour-coudre-une-jupe-a-volants-fille-fr",
+        "name": "test-pkg-1-ar",
         "status": "present"
       },
       {
-        "name": "patrons-pour-coudre-des-vetements-pour-enfants-fr",
-        "status": "present"
-      },
-      {
-        "name": "patrons-pour-coudre-des-vetements-pour-femmes-fr",
-        "status": "present"
-      },
-      {
-        "name": "patrons-pour-coudre-un-top-sorbetto-femmes-fr",
-        "status": "present"
-      },
-      {
-        "name": "apprendre-a-utiliser-des-patrons-fr",
-        "status": "present"
-      },
-      {
-        "name": "wiktionary.ti",
-        "status": "present"
-      },
-      {
-        "name": "wiktionary.sw",
+        "name": "pkg2-en",
         "status": "present"
       }
     ],
