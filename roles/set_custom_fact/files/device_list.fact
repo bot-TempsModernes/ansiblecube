@@ -117,10 +117,6 @@
       {
         "name": "test-pkg-1-ar",
         "status": "present"
-      },
-      {
-        "name": "pkg2-en",
-        "status": "present"
       }
     ],
     "portal": {
