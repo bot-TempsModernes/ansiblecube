@@ -91,15 +91,15 @@
         "status": "present"
       },
       {
-        "name": "wiktionary.ti",
+        "name": "tedscience.en",
         "status": "present"
       },
       {
-        "name": "wiktionary.sw",
+        "name": "tedtechnology.en",
         "status": "present"
       },
       {
-        "name": "w2eu",
+        "name": "tedmed.en",
         "status": "present"
       }
     ],
