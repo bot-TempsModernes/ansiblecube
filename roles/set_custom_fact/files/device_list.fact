@@ -1,4 +1,20 @@
 {
+  "idb-bsf-demobsf": {
+    "kolibri": {
+      "activated": false,
+      "language": [],
+      "version": "0.10.3"
+    },
+    "package_management": [
+      {
+        "name": "test-pkg-1-ar",
+        "status": "present"
+      }
+    ],
+    "portal": {
+      "activated": true
+    }
+  },
   "idb-bsf-dev2018": {
     "kolibri": {
       "activated": false,
