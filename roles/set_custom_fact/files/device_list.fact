@@ -207,6 +207,17 @@
       "activated": true
     }
   },
+  "idc-bsf-out_of_ran": {
+    "kolibri": {
+      "activated": false,
+      "language": [],
+      "version": "0.10.3"
+    },
+    "package_management": [],
+    "portal": {
+      "activated": true
+    }
+  },
   "idc-bsf-qas": {
     "kolibri": {
       "activated": false,
